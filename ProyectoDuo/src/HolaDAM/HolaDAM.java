@@ -10,6 +10,8 @@ package HolaDAM;
  */
 public class HolaDAM {
     
+    private String prueba1;
+    
     public static void main(String[] args) {
         
     }
